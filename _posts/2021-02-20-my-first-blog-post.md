@@ -1,5 +1,5 @@
 ---
-title: "2021-02-20-my-first-blog-post.md"
+title: "Free 30-day trial"
 date: 2021-02-20
 ---
 At F1rstdata, we specialize in processing mission-critical data to increase
